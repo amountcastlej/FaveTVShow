@@ -1,5 +1,5 @@
 # FaveTVShow
 
-This project was built using HTML & CSS to create a website featuring the TV show Schitts Creek
+This website features the TV show Schitts Creek using HTML & a built in feature of CSS Flexbox
 
 ![Schitts Creek](https://raw.githubusercontent.com/amountcastlej/FaveTVShow/main/SchittsCreek.png)
